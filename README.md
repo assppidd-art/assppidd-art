@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Sara Rodríguez 👋
 
-<!--
-**assppidd-art/assppidd-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrolladora Full-Stack Junior & Estudiante de Informática 🇻🇪
 
-Here are some ideas to get you started:
+Me apasiona crear aplicaciones web funcionales y con una excelente experiencia de usuario. Actualmente estoy en busca de mi primera oportunidad laboral remota o proyectos freelance donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**💻 Mi Stack Tecnológico:**
+*   **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3 (Vanilla).
+*   **Backend:** PHP, Python.
+*   **Bases de Datos:** MySQL, Supabase.
+*   **Herramientas:** Git, GitHub, Vercel, Figma, Notion, Slack.
+
+---
+
+**🚀 Mis Proyectos Destacados:**
+*   🍊 **Kero:** Plataforma Full-Stack para el rescate de alimentos (PHP, MySQL).
+*   🖥️ **Museo del SO:** Simulador web interactivo sobre sistemas operativos (React, TypeScript).
+*   🛍️ **Dionovedades:** Landing page desplegada en producción (Vercel).
+*   🔮 **Mi Grimorio:** Sitio web temático con componentes interactivos avanzados usando CSS puro.
+
+---
+
+**📫 Cómo contactarme:**
+*   [Mi perfil de LinkedIn](https://www.linkedin.com/in/sara-rodriguez-17b959322)
+*   📧 Correo: Saiita1104@gmail.com
