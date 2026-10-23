@@ -15,11 +15,10 @@ Me apasiona crear aplicaciones web funcionales y con una excelente experiencia d
 ---
 
 **🚀 Mis Proyectos Destacados:**
-*   🍊 **Kero:** Plataforma Full-Stack para el rescate de alimentos (PHP, MySQL).
-* 🖥️ **[Museo del SO](https://github.com/assppidd-art/Museo-SO):** Simulador web interactivo sobre sistemas operativos. [Ver en vivo](https://museo-del-sistema-op-11zx.bolt.host)
-*   🛍️ **Dionovedades:** Landing page desplegada en producción (Vercel).
-*   🔮 **Mi Grimorio:** Sitio web temático con componentes interactivos avanzados usando CSS puro.
-
+*   🍊 **[Kero](https://github.com/assppidd-art/Kero):** Plataforma Full-Stack para el rescate de alimentos (PHP, MySQL).
+*   🖥️ **[Museo del SO](https://github.com/assppidd-art/Museo-SO):** Simulador web interactivo sobre sistemas operativos (React, TypeScript). [Ver en vivo](https://museo-del-sistema-op-11zx.bolt.host)
+*   🔮 **[Mi Grimorio](https://github.com/assppidd-art/Mi-Grimorio):** Sitio web temático con componentes interactivos avanzados usando CSS puro.
+*   🛍️ **[Dionovedades](https://dionovedades.vercel.app):** Landing page en producción desplegada con Vercel.
 ---
 
 **📫 Cómo contactarme:**
