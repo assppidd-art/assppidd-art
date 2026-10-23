@@ -16,7 +16,7 @@ Me apasiona crear aplicaciones web funcionales y con una excelente experiencia d
 
 **🚀 Mis Proyectos Destacados:**
 *   🍊 **Kero:** Plataforma Full-Stack para el rescate de alimentos (PHP, MySQL).
-*   🖥️ **Museo del SO:** Simulador web interactivo sobre sistemas operativos (React, TypeScript).
+* 🖥️ **[Museo del SO](https://github.com/assppidd-art/Museo-SO):** Simulador web interactivo sobre sistemas operativos. [Ver en vivo](https://museo-del-sistema-op-11zx.bolt.host)
 *   🛍️ **Dionovedades:** Landing page desplegada en producción (Vercel).
 *   🔮 **Mi Grimorio:** Sitio web temático con componentes interactivos avanzados usando CSS puro.
 
