@@ -22,5 +22,5 @@ Me apasiona crear aplicaciones web funcionales y con una excelente experiencia d
 ---
 
 **📫 Cómo contactarme:**
-*   [Mi perfil de LinkedIn](https://www.linkedin.com/in/sara-rodriguez-17b959322)
+*   [Mi perfil de LinkedIn](www.linkedin.com/in/sara-rodriguez-dev)
 *   📧 Correo: Saiita1104@gmail.com
