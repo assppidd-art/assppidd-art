@@ -19,7 +19,7 @@ Me apasiona crear aplicaciones web funcionales y con una excelente experiencia d
 *   🖥️ **[Museo del SO](https://github.com/assppidd-art/Museo-SO):** Simulador web interactivo sobre sistemas operativos (React, TypeScript). [Ver en vivo](https://museo-del-sistema-op-11zx.bolt.host)
 *   🔮 **[Mi Grimorio](https://github.com/assppidd-art/Mi-Grimorio):** Sitio web temático con componentes interactivos avanzados usando CSS puro.
 *   🛍️ **[Dionovedades](https://dionovedades.vercel.app):** Landing page en producción desplegada con Vercel.
-*   🌟 **[Niño Dorado Ticketing](https://el-nino-dorado-ticke-mb3b.bolt.host):** Plataforma web para la venta de entradas de una obra de teatro infantil.
+*   🌟 **[Niño Dorado Ticketing](https://github.com/assppidd-art/el-nino-dorado-ticketing):** Plataforma web para la venta de entradas de una obra de teatro infantil. [Ver en vivo](https://el-nino-dorado-ticke-mb3b.bolt.host) 
 ---
 
 **📫 Cómo contactarme:**
